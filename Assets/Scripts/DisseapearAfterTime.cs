@@ -17,5 +17,9 @@ public class DisappearAfterTime : MonoBehaviour
         yield return new WaitForSeconds(delay);
         gameObject.SetActive(false); // Désactive l'objet
     }
+    private void OnCollisionEnter(Collider other)
+    {
+        Destroy(gameObject); // Destroy the target when it collides with another object
+    }
 }
 

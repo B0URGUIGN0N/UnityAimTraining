@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|c:\\users\\sosol\\documents\\github\\unityaimtraining\\assets\\assets\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\assets\\checklimite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|c:\\users\\sosol\\documents\\github\\unityaimtraining\\assets\\assets\\checklimite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\checklimite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|c:\\users\\sosol\\documents\\github\\unityaimtraining\\assets\\scripts\\armezarya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armezarya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|c:\\users\\sosol\\documents\\github\\unityaimtraining\\assets\\scripts\\disseapearaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\disseapearaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|c:\\users\\sosol\\documents\\github\\unityaimtraining\\assets\\assets\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|c:\\users\\sosol\\documents\\github\\unityaimtraining\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\assets\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\assets\\script_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\assets\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\assets\\script_target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script_target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\scripts\\armezarya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armezarya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CFBF5B2-30F3-7E9A-D413-522B145C26E9}|Assembly-CSharp.csproj|C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\assets\\scripts\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +46,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisseapearAfterTime.cs",
+              "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Scripts\\DisseapearAfterTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DisseapearAfterTime.cs",
+              "ToolTip": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Scripts\\DisseapearAfterTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DisseapearAfterTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:55:40.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:44:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Script_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Script_Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script_Spawner.cs",
+              "ToolTip": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Script_Spawner.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script_Spawner.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAMwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:09:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Script_Target.cs",
+              "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Script_Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script_Target.cs",
+              "ToolTip": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Script_Target.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script_Target.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:52:10.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ArmeZarya.cs",
               "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Scripts\\ArmeZarya.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ArmeZarya.cs",
@@ -42,12 +109,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ArmeZarya.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T12:03:41.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T12:03:41.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Moving.cs",
               "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Moving.cs",
               "RelativeDocumentMoniker": "Assets\\Assets\\Moving.cs",
@@ -60,33 +126,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CheckLimite.cs",
               "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\CheckLimite.cs",
               "RelativeDocumentMoniker": "Assets\\Assets\\CheckLimite.cs",
               "ToolTip": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\CheckLimite.cs",
               "RelativeToolTip": "Assets\\Assets\\CheckLimite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T11:50:11.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Spawner.cs",
               "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Assets\\Spawner.cs",
               "ToolTip": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Assets\\Spawner.cs",
               "RelativeToolTip": "Assets\\Assets\\Spawner.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCYAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAMwCUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T11:46:08.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GunController.cs",
               "DocumentMoniker": "C:\\Users\\sosol\\Documents\\GitHub\\UnityAimTraining\\Assets\\Scripts\\GunController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GunController.cs",

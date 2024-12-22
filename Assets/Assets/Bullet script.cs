@@ -15,4 +15,10 @@ public class Bulletscript : MonoBehaviour
     {
         
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+
+        Destroy(gameObject); 
+    }
 }

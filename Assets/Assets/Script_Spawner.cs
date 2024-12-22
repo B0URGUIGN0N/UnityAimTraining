@@ -73,7 +73,7 @@ public class SCR_ShipSpawner : MonoBehaviour
         position += Target_Mvmt_Area.transform.position;
 
         return position;
-        return position;
+        
     }
     
     SCR_Ship AddShip(Vector3 position)

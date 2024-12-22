@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class TargetSpawner : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class TargetSpawner : MonoBehaviour
     public float spawnInterval = 2.0f;
     public float moveSpeed = 5.0f;
     public float targetLifetime = 5.0f;
+    public TextMeshProUGUI score;
 
     public List<GameObject> targets = new List<GameObject>();
 
@@ -22,6 +24,7 @@ public class TargetSpawner : MonoBehaviour
     {
         while (true)
         {
+            /*
             if (targets.Count < targetLimit)
             {
                 Vector3 spawnPosition = GetRandomPosition();
@@ -29,6 +32,11 @@ public class TargetSpawner : MonoBehaviour
                 targets.Add(newTarget);
                 StartCoroutine(MoveAndDestroyTarget(newTarget));
             }
+            yield return new WaitForSeconds(spawnInterval);*/
+            Vector3 spawnPosition = GetRandomPosition();
+            GameObject newTarget = Instantiate(targetPrefab, spawnPosition, Quaternion.identity);
+            targets.Add(newTarget);
+            StartCoroutine(MoveAndDestroyTarget(newTarget));
             yield return new WaitForSeconds(spawnInterval);
         }
     }

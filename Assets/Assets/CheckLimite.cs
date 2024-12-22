@@ -23,6 +23,17 @@ public class Target : MonoBehaviour
             Destroy(gameObject); // Destroy the target if it is out of bounds
         }
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Balle")
+        {
+            ScoreManager.Instance.IncrementScore(1);
+            Destroy(gameObject); // Destroy the target when it collides with another object
+        }
+       
+    }
+
+
 }
 
     
